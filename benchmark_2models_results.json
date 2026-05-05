@@ -1,0 +1,80 @@
+{
+  "models": {
+    "qwen": "qwen/qwen3.6-35b-a3b",
+    "gemma": "google/gemma-4-26b-a4b"
+  },
+  "sample_size": 20,
+  "field_stats": {
+    "numero_facture": {
+      "match": 19,
+      "total": 20
+    },
+    "date_facture": {
+      "match": 20,
+      "total": 20
+    },
+    "date_echeance": {
+      "match": 20,
+      "total": 20
+    },
+    "nom_fournisseur": {
+      "match": 18,
+      "total": 20
+    },
+    "siret_fournisseur": {
+      "match": 8,
+      "total": 20
+    },
+    "montant_ht": {
+      "match": 19,
+      "total": 20
+    },
+    "montant_tva": {
+      "match": 19,
+      "total": 20
+    },
+    "montant_ttc": {
+      "match": 20,
+      "total": 20
+    },
+    "devise": {
+      "match": 20,
+      "total": 20
+    },
+    "taux_tva": {
+      "match": 19,
+      "total": 20
+    },
+    "nb_lignes": {
+      "match": 14,
+      "total": 20
+    },
+    "type_document": {
+      "match": 19,
+      "total": 20
+    },
+    "categorie": {
+      "match": 19,
+      "total": 20
+    },
+    "moyen_paiement": {
+      "match": 18,
+      "total": 20
+    },
+    "iban_fournisseur": {
+      "match": 18,
+      "total": 20
+    },
+    "numero_tva": {
+      "match": 13,
+      "total": 20
+    },
+    "numero_commande_client": {
+      "match": 17,
+      "total": 20
+    }
+  },
+  "overall_pct": 88.23529411764706,
+  "avg_time_qwen": 2.5495083928108215,
+  "avg_time_gemma": 6.381024491786957
+}

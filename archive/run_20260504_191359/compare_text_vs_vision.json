@@ -1,0 +1,215 @@
+[
+  {
+    "file": "invoice_BV97034136.pdf",
+    "text": {
+      "numero_facture": "BV97034136",
+      "date_facture": "2025-10-08",
+      "date_echeance": null,
+      "nom_fournisseur": "Verifone Payments BV dba 2Checkout",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "42.0",
+      "montant_tva": "8.4",
+      "montant_ttc": "50.4",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "MacUncle PST Converter Pro License",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "42.0",
+          "montant_ht": "42.0",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": "NL 815605468B01",
+      "numero_commande_client": "262458704",
+      "url_fichier": null,
+      "raw_text": "www.2co.com\nTax Invoice\nFacture fiscale\nInvoice No: BV97034136\nFacture nº\nDate: October 08, 2025\nDate(aaaa-mm-jj)\nOrder No: 262458704\nCommande nº\nProvided by: Provided to:\nFourni par: Fourni à:\nVerifone Payments BV dba 2Checkout GEEKADOMICILE\n[Mail address: P.O. Box 11334, 1001 GH Amsterdam] Singel 250, 4th floor, Yevgueny Kassine\n1016AB 62 avenue des Etats Unis\nAmsterdam - -\nCountry Numéro de TVA: Netherlands Yvelines, France\nNuméro de TVA: NL 815605468B01 E-mail: macuncle@geekadomicile.com\nE-mail: info@2checkout.com\nDelivered to:\nLivré à :\nGEEKADOMICILE\nYevgueny Kassine\n62 avenue des Etats Unis\n- -\nYvelines, France\nE-mail: macuncle@geekadomicile.com\nInvoice Details\nDétails de la facture\nNo Products Units Unit Price (EUR) TVA (EUR) Value (EUR)\nNº Produits Unités Prix à l’unité TVA (EUR) Montant\n1 MacUncle PST Converter 1 42,00 8,40 (20.00 %) 42,00\nPro License\nDelivery date: 2025-10-08\nDate de livraison\nTotal TVA (EUR): 8,40\nTotal TVA\nTotal (EUR): 50,40\nTotal\nInvoice Status: PAID\nStatut facture: Payé\nPayment Details\nInformations de paiement\nPayment method used: Visa/MasterCard\nYour credit card (###########8923) has been successfully charged. Please note that the charge on your credit card will appear as\n'2CO.com|RECOVERYTOOLS '.\nMéthode de paiement utilisée: Visa/MasterCard\nVotre carte de crédit (###########8923) a été débitée avec succès. Veuillez noter que le débit sur votre carte de crédit apparaîtra sous le libellé « 2CO.com|RECOVERYTOOLS ».\nThe purchased products and services are delivered in accordance with the terms and conditions published on https://datacarekart.com/ website and agreed\nduring the online order. For technical support please contact support@recoverytools.com\nLes produits et services achetés sont livrés conformément aux conditions générales de vente publiées sur le site internet https://datacarekart.com/ et acceptées au moment de passer la commande en ligne.\nPour toute assistance technique, veuillez contacter support@recoverytools.com\nVerifone ",
+      "extraction_method": "native_text",
+      "source_file": "invoice_BV97034136.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "BV97034136",
+      "date_facture": "2025-10-08",
+      "date_echeance": null,
+      "nom_fournisseur": "Verifone Payments BV dba 2Checkout",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "42.0",
+      "montant_tva": "8.4",
+      "montant_ttc": "50.4",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "MacUncle PST Converter Pro License",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "42.0",
+          "montant_ht": "42.0",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": "NL 815605468B01",
+      "numero_commande_client": "262458704",
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "invoice_BV97034136.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Facture-FC0082368.pdf",
+    "text": {
+      "numero_facture": "FC0082368",
+      "date_facture": "2025-06-13",
+      "date_echeance": null,
+      "nom_fournisseur": "FRANCE ACCESSOIRES",
+      "siret_fournisseur": "83997028200027",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "74.17",
+      "montant_tva": "15.65",
+      "montant_ttc": "93.9",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Clavier neuf de rechange français Asus",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "74.17",
+          "montant_ht": "74.17",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": "FR44839970282",
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "Facture N° FC0082368\nFRANCE ACCESSOIRES\nAD PARK BAT B3 - 50 ALL J. AURIOL Date: 13/06/2025\n13730 SAINT VICTORET Canal de distribution : Accessoires-asus.com\nNAF : 4791B Moyen de paiement : Carte Bancaire\nSIRET : 83997028200027\nN° de TVA intracom : FR44839970282 Date de paiement : 13/06/2025\nForme juridique : SAS N°Proforma : 484940\nCapital : 96 000 EUR Mode de livraison : Colissimo Point Retrait Particuliers\nAdresse de livraison :\nAdresse de facturation\nTABAC LA GITANE\nGeekadomicile Kassine\nGeekadomicile Kassine\n19 RUE DE MONTREUIL\n35 rue Henri Simon\n78000 Versailles\n78000, Versailles\nFrance\nFrance\nTél: 0666565507\nTél: 0666565507\nSKU Désignation Qté Prix Montant HT Taux Montant TTC\nunitaire de TVA\nCLAVX415JAFR-2 Clavier neuf de rechange français Asus 1,00 HT89,00 74,17 20% 89,00 €\nJTEA13NB0ST1AP0401828060027D\nTotaux\nTotal HT 74,17 €\nFrais de port 4,08 €\nTVA 15,65 €\nTotal TTC 93,90 €\nEn cas de retard de paiement, il sera appliqué une indemnité forfaitaire minimum pour frais de recouvrement de 40 Euros (L.441-3 et L.441-6\ndu Code de Commerce).\nSi les frais de recouvrement exposés sont supérieurs, nous nous réservons la faculté de demander une indemnisation complémentaire.\nDe même, des intérêts de retard seront appliqués prorata temporis, au taux de 4 fois le taux d'intérêt légal.\nTaux d'escompte 0% : En cas de paiement anticipé, aucun escompte ne sera accordé\nLe retour des marchandises se fait uniquement par voie postale, sauf mention particulière. Tout retour de marchandise nécessite l'accord\npréalable de FRANCE ACCESSOIRES SARL et un numéro de retour, lesquels peuvent être obtenus gratuitement via la page CONTACTS\naccessible depuis la page d'accueil du site\nPage 1 de 1",
+      "extraction_method": "native_text",
+      "source_file": "Facture-FC0082368.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "FC0082368",
+      "date_facture": "2025-06-13",
+      "date_echeance": null,
+      "nom_fournisseur": "FRANCE ACCESSOIRES",
+      "siret_fournisseur": "83997028200027",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "74.17",
+      "montant_tva": "15.65",
+      "montant_ttc": "93.9",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Clavier neuf de rechange français Asus",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "89.0",
+          "montant_ht": "74.17",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": "FR44839970282",
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Facture-FC0082368.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Automate N_A Votre justificatif d’achat _ Purchase Receipt.pdf",
+    "text": {
+      "numero_facture": "1116904701",
+      "date_facture": "2025-09-29",
+      "date_echeance": null,
+      "nom_fournisseur": "Île-de-France Mobilités",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "4.1",
+      "montant_tva": "0.4",
+      "montant_ttc": "4.5",
+      "devise": "EUR",
+      "taux_tva": 10.0,
+      "lignes": [
+        {
+          "description": "Ticket Métro-Train-RER zones 1-5",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "4.1",
+          "montant_ht": "4.1",
+          "taux_tva": 10.0
+        }
+      ],
+      "type_document": "ticket",
+      "categorie": "transport",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "Automate N/A Votre justificatif d’achat / Purchase Receipt\nSubject: Automate N/A Votre justificatif d’achat / Purchase Receipt\nFrom: Achat Navigo <ne-pas-repondre@achat-titres.iledefrance-mobilites.fr>\nDate: 9/29/25, 16:14\nTo: ratp@geekadomicile.com\nBonjour/Hello,\nVous avez effectué un achat le 29 septembre 2025 à 16h13 sur Automate N/A.\nVous en trouverez le détail ci-dessous.\nCet email tient lieu de justificatif d'achat ; nous vous invitons donc à conserver ce document.\nPlease find below the detailed information related to your purchase on the 29 septembre 2025 à 16h13 on N/A application.\nThis email is your purchase receipt, we kindly recommend keeping it.\nNous vous remercions de votre confiance/Thank you for your trust,\nL'équipe Navigo Île-de-France Mobilités\nDétail de votre achat effectué sur Automate N/A\n1 Navigo Easy\n1 Ticket Métro-Train-RER zones 1-5\nSupport valable jusqu'au 29 septembre 2035\nChargement sur le passe Navigo Easy Souple N° : P103709789\nPrix TTC 4.5 euros dont 0.4 euros de TVA\nTaux TVA 10 %\nAcheté le 29 septembre 2025 à 16h13\nPaiement par CARD\nN° de commande: 1116904701\nPurchase details on Automate N/A\n1 Navigo Easy\n1 Ticket Métro-Train-RER zones 1-5\nSupport valable jusqu'au 29 septembre 2035\nLoaded on Navigo card Navigo Easy Souple N° : P103709789\nPrice 4.5 euros including 0.4 euros VAT\nVAT rate 10 %\nPurchased on 29 septembre 2025 at 16h13\nPayment by CARD\nOrder number: 1116904701\nMerci de ne pas répondre à cet e-mail. Pour toute question consultez la FAQ.\nConditions Générales du service\n1 of 1 5/4/26, 13:11",
+      "extraction_method": "native_text",
+      "source_file": "Automate N_A Votre justificatif d’achat _ Purchase Receipt.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "1116904701",
+      "date_facture": "2025-09-29",
+      "date_echeance": null,
+      "nom_fournisseur": "Île-de-France Mobilités",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "4.1",
+      "montant_tva": "0.4",
+      "montant_ttc": "4.5",
+      "devise": "EUR",
+      "taux_tva": 10.0,
+      "lignes": [
+        {
+          "description": "1 Ticket Métro-Train-RER zones 1-5",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "4.1",
+          "montant_ht": "4.1",
+          "taux_tva": 10.0
+        }
+      ],
+      "type_document": "ticket",
+      "categorie": "transport",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": "1116904701",
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Automate N_A Votre justificatif d’achat _ Purchase Receipt.pdf",
+      "confidence": "medium"
+    }
+  }
+]

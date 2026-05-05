@@ -1,0 +1,1729 @@
+[
+  {
+    "file": "Facture-FC0082368.pdf",
+    "match": true,
+    "mismatches": [],
+    "text": {
+      "numero_facture": "FC0082368",
+      "date_facture": "2025-06-13",
+      "date_echeance": null,
+      "nom_fournisseur": "FRANCE ACCESSOIRES",
+      "siret_fournisseur": "83997028200027",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "74.17",
+      "montant_tva": "15.65",
+      "montant_ttc": "93.9",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Clavier neuf de rechange français Asus",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "74.17",
+          "montant_ht": "74.17",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": "FR44839970282",
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "Facture N° FC0082368\nFRANCE ACCESSOIRES\nAD PARK BAT B3 - 50 ALL J. AURIOL Date: 13/06/2025\n13730 SAINT VICTORET Canal de distribution : Accessoires-asus.com\nNAF : 4791B Moyen de paiement : Carte Bancaire\nSIRET : 83997028200027\nN° de TVA intracom : FR44839970282 Date de paiement : 13/06/2025\nForme juridique : SAS N°Proforma : 484940\nCapital : 96 000 EUR Mode de livraison : Colissimo Point Retrait Particuliers\nAdresse de livraison :\nAdresse de facturation\nTABAC LA GITANE\nGeekadomicile Kassine\nGeekadomicile Kassine\n19 RUE DE MONTREUIL\n35 rue Henri Simon\n78000 Versailles\n78000, Versailles\nFrance\nFrance\nTél: 0666565507\nTél: 0666565507\nSKU Désignation Qté Prix Montant HT Taux Montant TTC\nunitaire de TVA\nCLAVX415JAFR-2 Clavier neuf de rechange français Asus 1,00 HT89,00 74,17 20% 89,00 €\nJTEA13NB0ST1AP0401828060027D\nTotaux\nTotal HT 74,17 €\nFrais de port 4,08 €\nTVA 15,65 €\nTotal TTC 93,90 €\nEn cas de retard de paiement, il sera appliqué une indemnité forfaitaire minimum pour frais de recouvrement de 40 Euros (L.441-3 et L.441-6\ndu Code de Commerce).\nSi les frais de recouvrement exposés sont supérieurs, nous nous réservons la faculté de demander une indemnisation complémentaire.\nDe même, des intérêts de retard seront appliqués prorata temporis, au taux de 4 fois le taux d'intérêt légal.\nTaux d'escompte 0% : En cas de paiement anticipé, aucun escompte ne sera accordé\nLe retour des marchandises se fait uniquement par voie postale, sauf mention particulière. Tout retour de marchandise nécessite l'accord\npréalable de FRANCE ACCESSOIRES SARL et un numéro de retour, lesquels peuvent être obtenus gratuitement via la page CONTACTS\naccessible depuis la page d'accueil du site\nPage 1 de 1",
+      "extraction_method": "native_text",
+      "source_file": "Facture-FC0082368.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "FC0082368",
+      "date_facture": "2025-06-13",
+      "date_echeance": null,
+      "nom_fournisseur": "FRANCE ACCESSOIRES",
+      "siret_fournisseur": "83997028200027",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "74.17",
+      "montant_tva": "15.65",
+      "montant_ttc": "93.9",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Clavier neuf de rechange français Asus",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "89.0",
+          "montant_ht": "74.17",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": "FR44839970282",
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Facture-FC0082368.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "invoice_BV97034136.pdf",
+    "match": true,
+    "mismatches": [],
+    "text": {
+      "numero_facture": "BV97034136",
+      "date_facture": "2025-10-08",
+      "date_echeance": null,
+      "nom_fournisseur": "Verifone Payments BV dba 2Checkout",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "42.0",
+      "montant_tva": "8.4",
+      "montant_ttc": "50.4",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "MacUncle PST Converter Pro License",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "42.0",
+          "montant_ht": "42.0",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": "NL 815605468B01",
+      "numero_commande_client": "262458704",
+      "url_fichier": null,
+      "raw_text": "www.2co.com\nTax Invoice\nFacture fiscale\nInvoice No: BV97034136\nFacture nº\nDate: October 08, 2025\nDate(aaaa-mm-jj)\nOrder No: 262458704\nCommande nº\nProvided by: Provided to:\nFourni par: Fourni à:\nVerifone Payments BV dba 2Checkout GEEKADOMICILE\n[Mail address: P.O. Box 11334, 1001 GH Amsterdam] Singel 250, 4th floor, Yevgueny Kassine\n1016AB 62 avenue des Etats Unis\nAmsterdam - -\nCountry Numéro de TVA: Netherlands Yvelines, France\nNuméro de TVA: NL 815605468B01 E-mail: macuncle@geekadomicile.com\nE-mail: info@2checkout.com\nDelivered to:\nLivré à :\nGEEKADOMICILE\nYevgueny Kassine\n62 avenue des Etats Unis\n- -\nYvelines, France\nE-mail: macuncle@geekadomicile.com\nInvoice Details\nDétails de la facture\nNo Products Units Unit Price (EUR) TVA (EUR) Value (EUR)\nNº Produits Unités Prix à l’unité TVA (EUR) Montant\n1 MacUncle PST Converter 1 42,00 8,40 (20.00 %) 42,00\nPro License\nDelivery date: 2025-10-08\nDate de livraison\nTotal TVA (EUR): 8,40\nTotal TVA\nTotal (EUR): 50,40\nTotal\nInvoice Status: PAID\nStatut facture: Payé\nPayment Details\nInformations de paiement\nPayment method used: Visa/MasterCard\nYour credit card (###########8923) has been successfully charged. Please note that the charge on your credit card will appear as\n'2CO.com|RECOVERYTOOLS '.\nMéthode de paiement utilisée: Visa/MasterCard\nVotre carte de crédit (###########8923) a été débitée avec succès. Veuillez noter que le débit sur votre carte de crédit apparaîtra sous le libellé « 2CO.com|RECOVERYTOOLS ».\nThe purchased products and services are delivered in accordance with the terms and conditions published on https://datacarekart.com/ website and agreed\nduring the online order. For technical support please contact support@recoverytools.com\nLes produits et services achetés sont livrés conformément aux conditions générales de vente publiées sur le site internet https://datacarekart.com/ et acceptées au moment de passer la commande en ligne.\nPour toute assistance technique, veuillez contacter support@recoverytools.com\nVerifone ",
+      "extraction_method": "native_text",
+      "source_file": "invoice_BV97034136.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "BV97034136",
+      "date_facture": "2025-10-08",
+      "date_echeance": null,
+      "nom_fournisseur": "Verifone Payments BV dba 2Checkout",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "42.0",
+      "montant_tva": "8.4",
+      "montant_ttc": "50.4",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "MacUncle PST Converter Pro License",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "42.0",
+          "montant_ht": "42.0",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": "NL 815605468B01",
+      "numero_commande_client": "262458704",
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "invoice_BV97034136.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "3061532787153743-remboursement.pdf",
+    "match": false,
+    "mismatches": [
+      "numero_facture",
+      "date_facture",
+      "montant_ht",
+      "montant_tva",
+      "montant_ttc",
+      "taux_tva",
+      "lignes(0!=1)"
+    ],
+    "text": {
+      "numero_facture": null,
+      "date_facture": null,
+      "date_echeance": null,
+      "nom_fournisseur": "AliExpress",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": null,
+      "montant_tva": null,
+      "montant_ttc": null,
+      "devise": "EUR",
+      "taux_tva": null,
+      "lignes": [],
+      "type_document": "remboursement",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "Téléchargez l'application Versailles/FR/ Bonjour, S…\nPanier ��\nAliExpress EUR\nMes commandes> Retour et remboursement\nRetour et remboursement\nVotre remboursement a été effectué et transmis à votre banque.\nNous traitons votre demande\nRemboursement effectué\nMéthode de remboursement: ������******����\nPreuve de remboursement\nMontant de la méthode originale :\nPour plus d’informations, veuillez contacter votre banque ou l’émetteur de votre carte\n��,���\navec le numéro de référence NRA\n���������������R�e�m�b�ou�rs�é� à� Copier\nAliExpress a remboursé Doit être traité\n�� novembre, ����� (CET) par votre banque\nPREUVE DE REMBOURSEMENT\nVotre remboursement a été émis. Veuillez vérifier auprès de votre banque dans �-� jours ouvrables.\nX\nSuivez votre remboursement\nRemboursement à: ������******����\nAAliffiExcphreers sle as édmétisa iulsn d rue mrebmoburosuermseemnte. nEtn règle générale, les banques le\ntraitent en\nPreuve de rembour�s-e�m joeunrts ouvrables\nParfois jusqu'à �� jours, selon votre banque\nInformations sur le remboursement\nInformations sur les retours/remboursements\nNuméro de commande ����������������\n���% Origina GP�JE �M��o�nmtaAnht dFuo rr eHmTCbo Puirxseelm �Aen �tG Phone Replacement Battery GP�JE F�o�r, �G�o�ogle Pixel �A Batteries Fast Shipping\nCHINA\nMéthode de remboursement ������******����\nDate d'émission du remboursem… �� novembre, ����� (CET)\nx�\nNuméro de référence ARN �����������������������\nMotif : Colis en transit\nNuméro de commande :������������ S � é � cu � r � ité C d op u i e p r aiement\nDate d'envoi : �� octobre, ����� (CET)\nSource du remboursement : Remboursement sans retour nécessaire\nDélai d'acceptation de l'offre:�� novembre, ����� (CET)\nOK\nHistorique des retours/remboursements\nConsultez le statut de votre demande de retour/remboursement\nProtection de la Propriété Intellectuelle - Politique de Confidentialité - Préférences relatives aux cookies - Plan du site\n- Conditions d’Utilisation et Informations Légales - Droits de nos clients de l'UE - Contrat ",
+      "extraction_method": "native_text",
+      "source_file": "3061532787153743-remboursement.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "17979675314000026944042",
+      "date_facture": "2023-11-10",
+      "date_echeance": null,
+      "nom_fournisseur": "AliExpress",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "12.54",
+      "montant_tva": "0",
+      "montant_ttc": "12.54",
+      "devise": "EUR",
+      "taux_tva": 0.0,
+      "lignes": [
+        {
+          "description": "Remboursement",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "12.54",
+          "montant_ht": "12.54",
+          "taux_tva": 0.0
+        }
+      ],
+      "type_document": "remboursement",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": "3061532787153743",
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "3061532787153743-remboursement.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Automate N_A Votre justificatif d’achat _ Purchase Receipt.pdf",
+    "match": true,
+    "mismatches": [],
+    "text": {
+      "numero_facture": "1116904701",
+      "date_facture": "2025-09-29",
+      "date_echeance": null,
+      "nom_fournisseur": "Île-de-France Mobilités",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "4.1",
+      "montant_tva": "0.4",
+      "montant_ttc": "4.5",
+      "devise": "EUR",
+      "taux_tva": 10.0,
+      "lignes": [
+        {
+          "description": "Ticket Métro-Train-RER zones 1-5",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "4.1",
+          "montant_ht": "4.1",
+          "taux_tva": 10.0
+        }
+      ],
+      "type_document": "ticket",
+      "categorie": "transport",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "Automate N/A Votre justificatif d’achat / Purchase Receipt\nSubject: Automate N/A Votre justificatif d’achat / Purchase Receipt\nFrom: Achat Navigo <ne-pas-repondre@achat-titres.iledefrance-mobilites.fr>\nDate: 9/29/25, 16:14\nTo: ratp@geekadomicile.com\nBonjour/Hello,\nVous avez effectué un achat le 29 septembre 2025 à 16h13 sur Automate N/A.\nVous en trouverez le détail ci-dessous.\nCet email tient lieu de justificatif d'achat ; nous vous invitons donc à conserver ce document.\nPlease find below the detailed information related to your purchase on the 29 septembre 2025 à 16h13 on N/A application.\nThis email is your purchase receipt, we kindly recommend keeping it.\nNous vous remercions de votre confiance/Thank you for your trust,\nL'équipe Navigo Île-de-France Mobilités\nDétail de votre achat effectué sur Automate N/A\n1 Navigo Easy\n1 Ticket Métro-Train-RER zones 1-5\nSupport valable jusqu'au 29 septembre 2035\nChargement sur le passe Navigo Easy Souple N° : P103709789\nPrix TTC 4.5 euros dont 0.4 euros de TVA\nTaux TVA 10 %\nAcheté le 29 septembre 2025 à 16h13\nPaiement par CARD\nN° de commande: 1116904701\nPurchase details on Automate N/A\n1 Navigo Easy\n1 Ticket Métro-Train-RER zones 1-5\nSupport valable jusqu'au 29 septembre 2035\nLoaded on Navigo card Navigo Easy Souple N° : P103709789\nPrice 4.5 euros including 0.4 euros VAT\nVAT rate 10 %\nPurchased on 29 septembre 2025 at 16h13\nPayment by CARD\nOrder number: 1116904701\nMerci de ne pas répondre à cet e-mail. Pour toute question consultez la FAQ.\nConditions Générales du service\n1 of 1 5/4/26, 13:11",
+      "extraction_method": "native_text",
+      "source_file": "Automate N_A Votre justificatif d’achat _ Purchase Receipt.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "1116904701",
+      "date_facture": "2025-09-29",
+      "date_echeance": null,
+      "nom_fournisseur": "Île-de-France Mobilités",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "4.1",
+      "montant_tva": "0.4",
+      "montant_ttc": "4.5",
+      "devise": "EUR",
+      "taux_tva": 10.0,
+      "lignes": [
+        {
+          "description": "1 Ticket Métro-Train-RER zones 1-5",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "4.1",
+          "montant_ht": "4.1",
+          "taux_tva": 10.0
+        }
+      ],
+      "type_document": "ticket",
+      "categorie": "transport",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": "1116904701",
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Automate N_A Votre justificatif d’achat _ Purchase Receipt.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "3063859923643743-remboursement.pdf",
+    "match": false,
+    "mismatches": [
+      "numero_facture",
+      "date_facture",
+      "montant_ht",
+      "montant_tva",
+      "montant_ttc",
+      "taux_tva",
+      "lignes(0!=1)"
+    ],
+    "text": {
+      "numero_facture": null,
+      "date_facture": null,
+      "date_echeance": null,
+      "nom_fournisseur": "AliExpress",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": null,
+      "montant_tva": null,
+      "montant_ttc": null,
+      "devise": "EUR",
+      "taux_tva": null,
+      "lignes": [],
+      "type_document": "remboursement",
+      "categorie": "informatique",
+      "moyen_paiement": null,
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "Téléchargez l'application Versailles/FR/ Bonjour, S…\nPanier ��\nAliExpress EUR\nPreuve de remboursement\nPour plus d’informations, veuillez contacter votre banque ou l’émetteur de votre carte\navec le numéro de référence NRA\n����������������������� Copier\nPREUVE DE REMBOURSEMENT\nX\nRemboursement à: ������******����\nAliExpress a émis un remboursement. En règle générale, les banques le\ntraitent en\n�-� jours ouvrables\nParfois jusqu'à �� jours, selon votre banque\nInformations sur le remboursement\nNuméro de commande ����������������\nMontant du remboursement �,���\nMéthode de remboursement ������******����\nDate d'émission du remboursem… � décembre, ����� (CET)\nNuméro de référence ARN �����������������������\nSécurité du paiement\nOK\nMes commandes> Retour et remboursement\nRetour et remboursement\nAucun retour nécessaire Nous vous offrons une occasion unique d'obtenir un remboursement sans retour nécessaire!\nNous traitons votre demande\nRemboursement effectué\nArticle satisfaisant, pas besoin de faire de retour\nMéthode de remboursement: ������******����\nMontant de la méthode originale :\nPreuve de remboursement\n�,���\nPour plus d’informations, veuillez contacter votre banque ou l’émetteur de votre carte\navec le numéro de réféRreemncbeo uNrsRé Aà\n����������������������� Copier\nAliExpress a remboursé Doit être traité\n� décembre, ����� (CET) par votre banque\nVotre remboursement a été émis. Veuillez vérifier auprès de votre banque dans �-� jours ouvrables.\nPREUVE DE REMBOURSEMENT\nSuivez votre remboursement\nX\nAfficher les détails du remboursement\nRemboursement à: ������******����\nAliExpress a émis un remboursement. En règle générale, les banques le\nPreuve de remboursement\ntraitent en\n�-� jours ouvrables\nCoupons et avantages remboursés\nParfois jusqu'à �� jours, selon votre banque\nVoici les remises remboursées pour cette commande.\nInformations sur le remboursement\n�,��� NumérUot idliesé commande ����������������\nPedidos +��,��� PFFMDoJnVtDaYnJtU dWuN remboursement �,���\nMéthode de remboursemen",
+      "extraction_method": "native_text",
+      "source_file": "3063859923643743-remboursement.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "02692425338000764822715",
+      "date_facture": "2023-12-04",
+      "date_echeance": null,
+      "nom_fournisseur": "AliExpress",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "1.58",
+      "montant_tva": "0.0",
+      "montant_ttc": "1.58",
+      "devise": "EUR",
+      "taux_tva": 0.0,
+      "lignes": [
+        {
+          "description": "Remboursement",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "1.58",
+          "montant_ht": "1.58",
+          "taux_tva": 0.0
+        }
+      ],
+      "type_document": "remboursement",
+      "categorie": "informatique",
+      "moyen_paiement": "CB",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": "3063859923643743",
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "3063859923643743-remboursement.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250102.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(3!=1)"
+    ],
+    "text": {
+      "numero_facture": "11876562780125",
+      "date_facture": "2025-01-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38349888800039",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "SØrie spØciale Bbox Fibre : Internet - TØlØphonie",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.0",
+          "montant_ht": "20.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Remise pendant 3 mois sur abonnement - Bbox",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "-4.17",
+          "montant_ht": "-4.17",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Bbox - location Øquipement",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "2.5",
+          "montant_ht": "2.5",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNNHNNPFFHPFPN NCICKKDNDPIPFLGLFLHLBGEO JJMKEMCFPDINFBIJKKFIONEN FECMJLJCMMEPBGCJJBLAHHLN FGOOGLNOEAGPJEHHHIJCBFPM BDMGNFEPILEONLIJKBELGLFM FEMJKJLKKKCOFOKFAPNCDNNN FBONOMCKAFKNFCMMHDFAHJAN NPCBJICICABPBBAKELJJFCEP NKDGGHKHENLPJJEHCDKDKOBM NKELIMMOKEIPNKNMIHOBMFKN JIJMJNINMJINNMNMMNIJJINM NFHFHHNFHNPPFPFPNHFPFFPP FKIIEDFPMCNOBLJJDKBCLELN JCCNJAABHPMNNLBDNHMBKIDN NEDPLBAKPDHPBKBJPNGFKMHM NKLCEENJCJJPNBGDOMIMKBAO BBNFKEDHKJMNJKIKDBDCOIKP BHELINCGNDANBCGJFJOMIPCP JHJKJGJOMOCMNLJBNNOJMKOO NFGGNMFHKAIPNFPONGCHHPEN JPKGODIMELMNFOGHNNHILGKP JDNPOHPIGNEPJPDCFDENJIIN NJJMMNMNNIMNJINMNJINNNIN\nDate de facture 02/01/2025\nN(cid:176) de facture 11876562780125\nRemise (cid:224) ZØro 01/02/2025\nFin d’engagement Sans Engagement\nN(cid:176) de compte client 16832203\nM KASSINE YEVGUENY\nN(cid:176) de ligne 09 87 15 20 26 35 B RUE HENRI SIMON\nRØfØrence PTO FI-9208-7909 78000 VERSAILLES\nBonjour, voici votre facture du 2 janvier 2025\n(cid:128) HT (cid:128) TTC(*)\nMontant prØlevØ le 14 janvier 2025 24,99\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 20,83 24,99\nMontant de la facture soumis (cid:224) TVA 20,83 24,99\nTVA 20,00 % payØe sur les dØbits 4,17\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 20,83\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150R9E5L59\n039\n084\n793\n47\nRF\n- SIRAP\n.S.C.R\n039\n084\n793\n- SIRAP\n61157\n- erŁissioB\neur\n,93-73\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 09 87 15 20 26 11876562780125\nAdresse de la ligne\n62 AV DES ETATS UNIS\n78000 VERSAILLES\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 24,99\nPour le mois (cid:224) venir (du 02/01 au 01/02)\n• SØrie spØciale",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250102.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11876562780125",
+      "date_facture": "2025-01-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "357 488 920 R.C.S. PARIS",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.83",
+          "montant_ht": "20.83",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250102.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250116.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(2!=3)"
+    ],
+    "text": {
+      "numero_facture": "11947409670125",
+      "date_facture": "2025-01-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38349888800036",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.57",
+      "montant_tva": "1.91",
+      "montant_ttc": "11.48",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos services ponctuels",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.41",
+          "montant_ht": "0.41",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNFFPNFNPPHPPN NCICKKDNDPBPNABHABFGOFCN JJMCEMCFPKJMFONFCHKACIDO FEICJLJCLLCONIABABMEHNNN NGHOGLNJADNNFGJGOIFFLHGM BDMGNFELKLANFNENMBOELBOM BEMJKJDIFOEMJKBDODNPIJCP JBONOECJNIJMBDJINOCFFIAP NPCBBIALCAGNNGGCOBLEKPPM NKDGCFAAFFGNJPPKFMHLDAMM NKMBNOADNMEMBADMBGFOHCNM JININNJIJMIMNJMJIMJMINMM NFFNHHNFPPFNNHFHHNFHNFPP FAPNBHPIOEGPFJKOIBLKGKKN JNHADABPIKFMNAFCHAADCFPN JEHPAEGBKHEPNOJIAMFPCFGM FLIIDJDMGAHPNHBLPJPIAGEN BAHAAMACPKJMFBCKKPCNGIPM JHIGPNKKFHPMJHHLIINCGMJO NEMLCAMIINEMFGFIEMJNJHGO JCHALFOKFOOONADCNPDDEKKP NKNBKGAKPFJNNLIDICNKINAP BOLMPHKIHDPNNLELJNBGIBFM JNNMMNMNNIMMJIMJNIJIIIMM\nDate de facture 16/01/2025\nN(cid:176) de facture 11947409670125\nRemise (cid:224) ZØro 15/02/2025\nFin d’engagement Date Øchue\nM KASSINE YEVGUENY\nRUE HENRI SIMON\nN(cid:176) de compte client 1.61321332 78000 VERSAILLES\nN(cid:176) de ligne 06 66 56 55 07\nBonjour, voici votre facture du 16 janvier 2025\n(cid:128) HT (cid:128) TTC(*)\nMontant prØlevØ le 31 janvier 2025 11,48\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 9,16 10,99\nVos communications (du 16/12 au 15/01) 0,00 0,00\nVos services fournis par des tiers 0,41 0,49\nVos services ponctuels 0,41 0,49\nMontant de la facture soumis (cid:224) TVA 9,57 11,48\nTVA 20,00 % payØe sur les dØbits 1,91\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 9,57\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150PYZ8Z59\n039\n084\n793\n47\nRF\n- SIRAP\n.S.C.R\n039\n084\n793\n- SIRAP\n61157\n- erŁissioB\neur\n,93-73\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 06 66 56 55 07 11947409670125\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 10,99\nPour le mois (cid:224) venir (du 16",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250116.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11947409670125",
+      "date_facture": "2025-01-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "357 660 520 R.C.S. PARIS",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.57",
+      "montant_tva": "1.91",
+      "montant_ttc": "11.48",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/12 au 15/01)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.0",
+          "montant_ht": "0.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos services ponctuels",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.41",
+          "montant_ht": "0.41",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250116.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250202.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(3!=1)"
+    ],
+    "text": {
+      "numero_facture": "11053575280225",
+      "date_facture": "2025-02-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38012986600039",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "SØrie spØciale Bbox Fibre : Internet - TØlØphonie",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.0",
+          "montant_ht": "20.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Remise pendant 3 mois sur abonnement - Bbox",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "-4.17",
+          "montant_ht": "-4.17",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Bbox - location Øquipement",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "2.5",
+          "montant_ht": "2.5",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNNHNNPFFHHHFN NCICKKDNDPIPFLGLFLHGHKPP JJMCEMCFPDINFBIJKKAMODGO FEKKJLJCMMEPBGCJJMOOODNM NGAOGLNOEAGPJEHHHMEEKFHM NDMGNFEPILEONLIGEKKCMBJM FEMJKJLKKKCOFOOONPBKKHIM BBONOMCKAFKNFCAHMLOPBEGO JPCBJICICABOJAPKPNGOMHOM NKDGGHKHENLONDBHMFBPNCJN NKELIMMOKJJNNEBONAPDBIBP JIJMNNINNMMMNMJJMJNMMINM NFNFPHNFPNNPFPPFNHPNHHPP NCPIADFPHPOOFAGLADBNPJKN NGMNJAAJAPCOJKBPNBGJECDN JMEPLMCKECPMNNJKPDFBCEGP NNLCEEDACIIPFNFBHHFAFAEO BANOIENBMHBMJEOFHKCFNMCO BHEHDGHEKEIOJGNNNJILLKGM JHJANPMPNBAMNJMBDIJPLHDM NNCOBMFHNCBNNCDAMFDJFLEN JLLMKCIKNHDNFGDINBDCDOBP JMBKPHJMHPNPNPGNFCDCLMMN JIINMNMNNIMNJINIMJINMNMM\nDate de facture 02/02/2025\nN(cid:176) de facture 11053575280225\nRemise (cid:224) ZØro 01/03/2025\nFin d’engagement Sans Engagement\nN(cid:176) de compte client 16832203\nM KASSINE YEVGUENY\nN(cid:176) de ligne 09 87 15 20 26 35 B RUE HENRI SIMON\nRØfØrence PTO FI-9208-7909 78000 VERSAILLES\nBonjour, voici votre facture du 2 fØvrier 2025\n(cid:128) HT (cid:128) TTC(*)\nMontant prØlevØ le 14 fØvrier 2025 24,99\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 20,83 24,99\nMontant de la facture soumis (cid:224) TVA 20,83 24,99\nTVA 20,00 % payØe sur les dØbits 4,17\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 20,83\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150R9E5L59\n039\n084\n793\n47\nRF\n- SIRAP\n.S.C.R\n039\n084\n793\n- SIRAP\n61157\n- erŁissioB\neur\n,93-73\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 09 87 15 20 26 11053575280225\nAdresse de la ligne\n62 AV DES ETATS UNIS\n78000 VERSAILLES\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 24,99\nPour le mois (cid:224) venir (du 02/02 au 01/03)\n• SØrie spØciale",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250202.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11053575280225",
+      "date_facture": "2025-02-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "357 680 920 R.C.S. PARIS",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.83",
+          "montant_ht": "20.83",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250202.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250216.pdf",
+    "match": true,
+    "mismatches": [],
+    "text": {
+      "numero_facture": "11125402790225",
+      "date_facture": "2025-02-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "383 497 302 00059",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "10.77",
+      "montant_tva": "2.15",
+      "montant_ttc": "12.93",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/01 au 15/02)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "1.62",
+          "montant_ht": "1.62",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNFFPNFNPPPPHP NCICKKDNDPBPNABHABFNPKJP JJMCEMCFPKJMFONFCHIDPFLO FEAGJLJCLLCONIADAKKACELN FGDOGLNJADNNFGJFIFNIOLMM NDMGNFELKLANNFELPAMOGNPM BEMJKJDIFOEMNBEKIDGKHEDO NBONOECJNIJMBDFFMLOHLNBP JPCBBIALCAGNFDEHDJIEBHEO NKDGKGAAFFEOJJALGPOFCNMO NKMDEOADNJPOBJAPNLKIDNGM JINJNNJIJJNNJMMMMJJMIIMM NFFNHHNFFHFNFHHHFPHFHFPP NKLNBHPBDPEOFNACEONILPCN FDHADAGNBOENNPNBICLELCAN JEHPAGPNKDHPFCOIFENDKIJM FLIIDJPPCCDNBFLMCKCPHOAN BBHOAJCAJPJNFNALGJHNGGEN JHENHBGIEHOMFDAAHOADFPDP NPNNNJKJINIMJPHJLJBFBPEM JMIMFBOKCMKPFGNKLKHOGOPO NFHNMHABCIAOJJOIKNNOLEIP FKJMPHKOCPBPJPCONNFJIALM NJIMMNMNNIINJIMNNIJIJINN\nDate de facture 16/02/2025\nN(cid:176) de facture 11125402790225\nRemise (cid:224) ZØro 15/03/2025\nFin d’engagement Date Øchue\nM KASSINE YEVGUENY\nRUE HENRI SIMON\nN(cid:176) de compte client 1.61321332 78000 VERSAILLES\nN(cid:176) de ligne 06 66 56 55 07\nBonjour, voici votre facture du 16 fØvrier 2025\n(cid:128) HT (cid:128) TTC(*)\nMontant prØlevØ le 28 fØvrier 2025 12,93\nVos services fournis par votre opØrateur 10,77 12,93\nVos abonnements, forfaits et options 9,16 10,99\nVos communications (du 16/01 au 15/02) 1,62 1,94\nVos services fournis par des tiers 0,00 0,00\nVos services ponctuels 0,00 0,00\nMontant de la facture soumis (cid:224) TVA 10,77 12,93\nTVA 20,00 % payØe sur les dØbits 2,15\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 10,77\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150PYZ8Z59\n039\n084\n793\n47\nRF\n- SIRAP\n.S.C.R\n039\n084\n793\n- SIRAP\n61157\n- erŁissioB\neur\n,93-73\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 06 66 56 55 07 11125402790225\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 10,77 12,93\nVos abonnements, forfaits et options 10,99\nPour le mois (cid:224) venir (d",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250216.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11125402790225",
+      "date_facture": "2025-02-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "357 660 520 R.C.S. PARIS",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "10.77",
+      "montant_tva": "2.15",
+      "montant_ttc": "12.93",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/01 au 15/02)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "1.62",
+          "montant_ht": "1.62",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250216.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250302.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(3!=1)"
+    ],
+    "text": {
+      "numero_facture": "11230564490325",
+      "date_facture": "2025-03-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "383 595 702 000 84",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "SØrie spØciale Bbox Fibre : Internet - TØlØphonie",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.0",
+          "montant_ht": "20.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Remise pendant 3 mois sur abonnement - Bbox",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "-4.17",
+          "montant_ht": "-4.17",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Bbox - location Øquipement",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "2.5",
+          "montant_ht": "2.5",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNNHNNPFFHPPPN NCICKKDNDPIPFLGLFLHMLANP JJMCEMCFPDINFBIJKKNCGFON FEAOJLJCMMEPBGCJJLHCLLKM NGOOGLNOEAGPJEHHGFPAGKPM FDMGNFEPILEONLINGEDFGAKM FEMJKJLKKKCOFOPKPAMOGJPP FBONOMCKAFKNFKLFFKDDBEGP JPCBJICICABMBGCJPNPHHOPN NKDGGHKHENPMJJMCMCGFNDPO NKELIMMOKBINBBNHPAEFFFOM JIJMININNJNMJNMMMINMMIMN NFHFNHNFNNNPNPFNPPFHFPNP FCAIGDFPIAPMNLGOCEEPLJCN BDCPIAABKEJONEBCOLAOEJNN FMGOLCKGMHJOFLGJANDCKIMM NKLCCFGDBMDPBELCABMCGIGM BBNOMEIMCHGMJAIJCHHLNODP BHEPAHJGMEKMNDGCAGDPAEAO JHJOGKMLNDDPJGPLACKFPBIM NNEPMMFHOBCOFDBLBGLDJLEM BHDMKDINFLGOJBIIGNIGAECP BOLIOHBLDJJOJOBPBCNJMJNN NINMMNINNIIMJINMMJINNNNM\nDate de facture 02/03/2025\nN(cid:176) de facture 11230564490325\nRemise (cid:224) ZØro 01/04/2025\nFin d’engagement Sans Engagement\nN(cid:176) de compte client 16832203\nM KASSINE YEVGUENY\nN(cid:176) de ligne 09 87 15 20 26 35 B RUE HENRI SIMON\nRØfØrence PTO FI-9208-7909 78000 VERSAILLES\nBonjour, voici votre facture du 2 mars 2025\n(cid:128) HT (cid:128) TTC(*)\nMontant prØlevØ le 14 mars 2025 24,99\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 20,83 24,99\nMontant de la facture soumis (cid:224) TVA 20,83 24,99\nTVA 20,00 % payØe sur les dØbits 4,17\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 20,83\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150R9E5L59\n039\n084\n793\n47\nRF\n- SIRAP\n.S.C.R\n039\n084\n793\n- SIRAP\n61157\n- erŁissioB\neur\n,93-73\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 09 87 15 20 26 11230564490325\nAdresse de la ligne\n62 AV DES ETATS UNIS\n78000 VERSAILLES\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 24,99\nPour le mois (cid:224) venir (du 02/03 au 01/04)\n• SØrie spØciale Bbox ",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250302.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11230564490325",
+      "date_facture": "2025-03-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "357 460 520 R.C.S. PARIS",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.83",
+          "montant_ht": "20.83",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250302.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250316.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(5!=3)"
+    ],
+    "text": {
+      "numero_facture": "11300004360325",
+      "date_facture": "2025-03-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38012986600039",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "14.22",
+      "montant_tva": "2.84",
+      "montant_ttc": "17.07",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos services fournis par votre opérateur",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "10.56",
+          "montant_ht": "10.56",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/02 au 15/03)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "1.4",
+          "montant_ht": "1.4",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos services fournis par des tiers",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "3.67",
+          "montant_ht": "3.67",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos services ponctuels",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "3.67",
+          "montant_ht": "3.67",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNFFPNFNPPPNHP NCICKKDNDPBPNABHABFGAHMN JJMKEMCFPKJMFONFCHALAKNN FEKCJLJCLLCONIIDACDOPLMM FCPOGLNJADNNFGNHOKNPLGPM FDMGNFELKLANFPIFJMCDKILM BEMJKJDIFOEMNCAINNOGDMLP JBONOECJNIJMBOFLAFAKCCEO JPCBBAALCAGMJMIMDAGKMGMP NKDGABAAFFMMNPNBMJNNGKLO NKMLLOADNLJONCOJPMPHOEFM JIJINNJIMIMNJMMNNIMIMMIM NFFNHHNFPPFPFHHNFNNHNNPP FAHNBHPDIGNOFBJOADAJFHDN NCHADANNMGCPBHECCACIKOEN NEHPADFODCDMBMLHDAFKPHCN FIIIDNBDCPGPFOHLEIIOFDCP FAHKIAGCLOJPJFAHEBJNBIKP JHMEBOJOFHPMBIJMHOBLLEEM NFGPKCLJIAKMJHPCNGDCCMKM FLIBOCOKGCAMFCPLNGNBEHKP BGOALHAIFGHPJPHJPJIDBIBP BLBPOHDJDLCMJLCMMJOAPANM NNNNMNINNIIMJIMNNIJMIINN\nDate de facture 16/03/2025\nN(cid:176) de facture 11300004360325\nRemise (cid:224) ZØro 15/04/2025\nFin d’engagement Date Øchue\nM KASSINE YEVGUENY\nRUE HENRI SIMON\nN(cid:176) de compte client 1.61321332 78000 VERSAILLES\nN(cid:176) de ligne 06 66 56 55 07\nBonjour, voici votre facture du 16 mars 2025\n(cid:128) HT (cid:128) TTC(*)\nMontant prØlevØ le 31 mars 2025 17,07\nVos services fournis par votre opØrateur 10,56 12,67\nVos abonnements, forfaits et options 9,16 10,99\nVos communications (du 16/02 au 15/03) 1,40 1,68\nVos services fournis par des tiers 3,67 4,40\nVos services ponctuels 3,67 4,40\nMontant de la facture soumis (cid:224) TVA 14,22 17,07\nTVA 20,00 % payØe sur les dØbits 2,84\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 14,22\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150PYZ8Z59\n039\n084\n793\n47\nRF\n- SIRAP\n.S.C.R\n039\n084\n793\n- SIRAP\n61157\n- erŁissioB\neur\n,93-73\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 06 66 56 55 07 11300004360325\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 10,56 12,67\nVos abonnements, forfaits et options 10,99\nPour le mois (cid:224) venir (du 16/0",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250316.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11300004360325",
+      "date_facture": "2025-03-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "357 660 520 R.C.S. PARIS",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "14.22",
+      "montant_tva": "2.84",
+      "montant_ttc": "17.07",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/02 au 15/03)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "1.4",
+          "montant_ht": "1.4",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos services ponctuels",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "3.67",
+          "montant_ht": "3.67",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250316.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250402.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(3!=1)"
+    ],
+    "text": {
+      "numero_facture": "11411690910425",
+      "date_facture": "2025-04-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38012986600039",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Serie Speciale fibre (du 02/04 au 01/05)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.0",
+          "montant_ht": "20.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Remise pendant 3 mois sur abonnement - Bbox (du 02/04 au 01/05)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "-4.17",
+          "montant_ht": "-4.17",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Bbox - location equipement (du 02/04 au 01/05)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "2.5",
+          "montant_ht": "2.5",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNNHNNPFFHHPPP NCICKKDNDPIPFLGLFLHGEGCO JJMIEMCFPDINFBIJKKIKAHEN FEMIJLJCMMEPBGCJJPIEGJOM NGIOGLNOEAGPJEHHLIPGOPOM BLMGNFEPILEONLIMBCLBAOKM FEMJKJLKKKCOFOFMGCCJFAAM NBONOMCKAFKNFDJPFHOEEIEN NPCBJICICABNFJKDDAPGJFCP NKDGGHKHENPPJABOFMBBCLON NKELIMMOKCBMNJAKIJNFLAEP JIJMININMIJNNJMINNJIJJNN NFHFHHNFNNHNNHFFNFFPHFPP NIAICDFAMBHMFOHLKLEGNJJN BEAPIAAJGEFPJFCHGABHPION BIGOLOAHAMOMFDDHPFPFOPAP JPLCMCPNLCMMNDHMLFJGLDFO FANKINBPLGKMFOECLGJONCCM BHEDCOJOIOPPBJOPECMMLGHP JHBEFAIOOIPOJGHIAEGEFGNN NNCABMFHBNHNBBMODGCCJIEN JJJBOCIAAAPOJDEPFFNLEKDP FEFJPHDLHDCOJPPHHDENONPN NIJNMNINNIMMJINMMJINMNJN\nDate de facture 02/04/2025\nN(cid:176) de facture 11411690910425\nRemise (cid:224) ZØro 01/05/2025\nFin d’engagement Sans Engagement\nN(cid:176) de compte client 16832203\nM KASSINE YEVGUENY\nN(cid:176) de ligne 09 87 15 20 26 35 B RUE HENRI SIMON\nRØfØrence PTO FI-9208-7909 78000 VERSAILLES\nBonjour, voici votre facture du 2 avril 2025\n(cid:128) HT (cid:128) TTC(*)\nMontant prØlevØ le 14 avril 2025 24,99\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 20,83 24,99\nMontant de la facture soumis (cid:224) TVA 20,83 24,99\nTVA 20,00 % payØe sur les dØbits 4,17\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 20,83\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150R9E5L59\n039\n084\n793\n47\nRF\n- SIRAP\n.S.C.R\n039\n084\n793\n- SIRAP\n61157\n- erŁissioB\neur\n,93-73\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 09 87 15 20 26 11411690910425\nAdresse de la ligne\n62 AV DES ETATS UNIS\n78000 VERSAILLES\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 24,99\nPour le mois (cid:224) venir (du 02/04 au 01/05)\n• SØrie SpØciale fib",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250402.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11411690910425",
+      "date_facture": "2025-04-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "307 056 624",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.83",
+          "montant_ht": "20.83",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250402.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250416.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(1!=3)"
+    ],
+    "text": {
+      "numero_facture": "11482513440425",
+      "date_facture": "2025-04-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38012986600039",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.16",
+      "montant_tva": "1.83",
+      "montant_ttc": "10.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNFFPNFNPPFPHP NCICKKDNDPBPNABHABFMNAKN JJMIEMCFPKJMFONFIHLHJJKM FEGEJLJCLLCONIIDPOJLDOKM FCLOGLNJADNNFGNEDMIDGMFM BLMGNFELKLANNNEJHCAEAFHM BEMJKJDIFOEMNFKBFFFNJHMN FBONOECJNIJMBLKEFBECGHCO NPCBBAALCAGPFDJLENOALEAM NKDGAJAAFFNNJIJNFEIAAJON NKMHOOADNBFMBNDKJGOADPGN JINNNNJIMMNMNNMINNJINNNN NFHHHHNFHPFPFNHFHFHPHPNP FCANBHPLDGMNJICAEJPNLKCN FIHADANFCDMMNLNGPABMAIDN FEHPANBGAHDPFAODCNOCINLP FIIIDJHEDOHNFEMOFLMNHDDP FBHNAIJOJKJPJAONAPDPMNAN JHMOHKJOEHLPBHOBNGEJLHPN FEABEGKIIJEOBDEACIBDLCMM BBKEDDOKNIENBIIOCHDFBINO FCDCMHAIGDJPBCGKMHFMECJP JJNMOHJLGNFONLMDKIPAIACO JINNMNMMNIIMJIMNNIJIJIJM\n4\nDate de facture 16/04/2025\nN(cid:176) de facture 11482513440425\nRemise (cid:224) ZØro 15/05/2025\nFin d’engagement Date Øchue\nM KASSINE YEVGUENY\nRUE HENRI SIMON\nN(cid:176) de compte client 1.61321332 78000 VERSAILLES\nN(cid:176) de ligne 06 66 56 55 07\nBonjour, voici votre facture du 16 avril 2025\n(cid:128)HT (cid:128) TTC(*)\nMontant prØlevØ le 30 avril 2025 10,99\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 9,16 10,99\nVos communications (du 16/03 au 15/04) 0,00 0,00\nVos services fournis par des tiers 0,00 0,00\nVos services ponctuels 0,00 0,00\nMontant de la facture soumis (cid:224) TVA 9,16 10,99\nTVA 20,00 % payØe sur les dØbits 1,83\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 9,16\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150PYZ8Z59\n039\n084\n793\n47\nRF\n- SIRAP\n.S.C.R\n039\n084\n793\n- SIRAP\n61157\n- erŁissioB\neur\n,93-73\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 06 66 56 55 07 11482513440425\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 10,99\nPour le mois (cid:224) venir (du 16/04",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250416.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11482513440425",
+      "date_facture": "2025-04-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "357 660 520 R.C.S. PARIS",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.16",
+      "montant_tva": "1.83",
+      "montant_ttc": "10.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/03 au 15/04)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.0",
+          "montant_ht": "0.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos services ponctuels",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.0",
+          "montant_ht": "0.0",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250416.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250502.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(3!=1)"
+    ],
+    "text": {
+      "numero_facture": "11580283300525",
+      "date_facture": "2025-05-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38012986600039",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "SØrie SpØciale fibre",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.0",
+          "montant_ht": "20.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Remise pendant 3 mois sur abonnement - Bbox",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "-4.17",
+          "montant_ht": "-4.17",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Bbox - location Øquipement",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "2.5",
+          "montant_ht": "2.5",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNNHNNPFFHFNHP NCICKKDNDPIPFLGLFLHFEOCM JJMIEMCFPDINFBIJKKFJDGJO FEGMJLJCMMEPBGCJJFLIIDNM FCLOGLNOEAGPJEHHDJBGAEPM JLMGNFEPILEONLIHLNPGFHJM FEMJKJLKKKCOFOGNNMLPKOCP FBONOMCKAFKNFDEOKFMMNIEP NPCBJICICABPFDEIHCCOPIAM NKDGGHKHENOMJDCMJHCCAEEP NKELIMMOKHKPFKOJMKKMCJMO JIJMMNINNMJNNMMNJINMJINN NFHFHHNFNFHNNPNPNPPFNFPP NKAIGDFPOAPNNNLMEBADOMIN BJLNIAAJMGOOJAAPNKHBOCJN JEFPLFJGNIOPFFAMABCJGHNN NNKCMOBKNOLNNDCEJEBBBNFN FBNCLGDMKHPMJLIOPGIMHBLP BHEHOCNAOAKOFLHGAKFJPCBP JHJMMNOKNEIOJBONGPHKLLNN NNEMGMEHBBBPBIPDCFODBGHN JDHNKDIFCAPNBOFLMFIHOHLP FJHMPHKKGKKNJKHFCDKANJGN JIIMMNMNNIIMJININJIJNNIN\n3\nDate de facture 02/05/2025\nN(cid:176) de facture 11580283300525\nRemise (cid:224) ZØro 01/06/2025\nFin d’engagement Sans Engagement\nN(cid:176) de compte client 16832203\nM KASSINE YEVGUENY\nN(cid:176) de ligne 09 87 15 20 26 35 B RUE HENRI SIMON\nRØfØrence PTO FI-9208-7909 78000 VERSAILLES\nBonjour, voici votre facture du 2 mai 2025\n(cid:128)HT (cid:128) TTC(*)\nMontant prØlevØ le 14 mai 2025 24,99\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 20,83 24,99\nMontant de la facture soumis (cid:224) TVA 20,83 24,99\nTVA 20,00 % payØe sur les dØbits 4,17\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 20,83\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150R9E5L59\n039\n084\n793\n47\nRF\n- 039\n084\n793\nerretnaN\nS.C.R\n- TEROF-AL-NODUEM\n06329\n- niuJ\nlahcØraM\nud\neuneva\n,51-31\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 09 87 15 20 26 11580283300525\nAdresse de la ligne :\n62 AV DES ETATS UNIS\n78000 VERSAILLES\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 24,99\nPour le mois (cid:224) venir (du 02/05 au 01/06)",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250502.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11580283300525",
+      "date_facture": "2025-05-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "320 207 956 048",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.83",
+          "montant_ht": "20.83",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250502.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250516.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(1!=2)"
+    ],
+    "text": {
+      "numero_facture": "11658575130525",
+      "date_facture": "2025-05-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.16",
+      "montant_tva": "1.83",
+      "montant_ttc": "10.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNFFPNFNPPHFNP NCICKKDNDPBPNABHABFGBNHM JJMAEMCFPKJMFONFIHKOHLON FEOCJLJCLLCONIIDPHAAJOPM NCCOGLNJADNNFGNEKMEICLEM JLMGNFELKLANNNEJGCLHEOJM BEMJKJDIFOEMNFDDDKDLEOLM JBONOECJNIJMBCMFIDEIIIAO NPCBBAALCAGNNHJHGIAGGELO NKDGCNAAFFMNJHGGONLPJOJP NKEDHOADNADPBBJLALFOKCNO JIJMNNJIJIJNNJNMMJMIIJJM NFNHHHNFFNNPNFPFHHPPNFPP FOENBHPPFPFPJKHGDPAKJLKN JGHADAEIACFNFFKKHDMOAIMN BEHPAPMFOGOMBLHMJNOFHLMO FKIIDOLCNHHONIDGNPGIBJGP FAHPAHJJOOJMJKFIMBCIBLBO JHMEPGLNFHNMFLDJMGCBMGGO FDNDMKNIIBLMJJBBOJILKJJN NHHMDCOKJNKMNAILPABOIAIO FNCPPGAKENDOJAHGHMCMJGCP FMBJPHMPCMCMNOFMJNGHKFNM NNNMMNINNIMNJIMJMIJMIINM\n4\nDate de facture 16/05/2025\nN(cid:176) de facture 11658575130525\nRemise (cid:224) ZØro 15/06/2025\nFin d’engagement Date Øchue\nM KASSINE YEVGUENY\nRUE HENRI SIMON\nN(cid:176) de compte client 1.61321332 78000 VERSAILLES\nN(cid:176) de ligne 06 66 56 55 07\nBonjour, voici votre facture du 16 mai 2025\n(cid:128)HT (cid:128) TTC(*)\nMontant prØlevØ le 30 mai 2025 10,99\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 9,16 10,99\nVos communications (du 16/04 au 15/05) 0,00 0,00\nMontant de la facture soumis (cid:224) TVA 9,16 10,99\nTVA 20,00 % payØe sur les dØbits 1,83\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 9,16\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150PYZ8Z59\n039\n084\n793\n47\nRF\n- 039\n084\n793\nerretnaN\nS.C.R\n- TEROF-AL-NODUEM\n06329\n- niuJ\nlahcØraM\nud\neuneva\n,51-31\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 06 66 56 55 07 11658575130525\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 10,99\nPour le mois (cid:224) venir (du 16/05 au 15/06)\n• SØrie Speciale B&YOU 130Go 5G 20,00 20,83 24,99",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250516.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11658575130525",
+      "date_facture": "2025-05-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.16",
+      "montant_tva": "1.83",
+      "montant_ttc": "10.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/04 au 15/05)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.0",
+          "montant_ht": "0.0",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250516.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250602.pdf",
+    "match": false,
+    "mismatches": [
+      "nom_fournisseur",
+      "lignes(3!=1)"
+    ],
+    "text": {
+      "numero_facture": "11759408790625",
+      "date_facture": "2025-06-02",
+      "date_echeance": null,
+      "nom_fournisseur": "Bouygues Telecom",
+      "siret_fournisseur": "38012987100047",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "SØrie SpØciale fibre",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.0",
+          "montant_ht": "20.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Remise pendant 3 mois sur abonnement - Bbox",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "-4.17",
+          "montant_ht": "-4.17",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Bbox - location Øquipement",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "2.5",
+          "montant_ht": "2.5",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNNHNNPFFHHHPN NCICKKDNDPIPFLGLFLHGMMCP JJMAEMCFPDINFBIJKKBEINJO FEGKJLJCMMEPBGCJJDCHLLIM NCFOGLNOEAGPJEHHOLDHEDHM FLMGNFEPILEONLIKNPJJCEHM NEMJKJLKKKCOFOLPJNLMJIHN BBONOMCKAFKNFJLJFPIABCDO JPCBJICICABNBEEHCIDFPJDN NKDGGHKHENEPNOJJOAAEHKIO NKELIMMOKGIOFOFOIKOPMKHM JIJMJNINJNJNNMJMMJINNJJM NFHFNHNFPFFPNPPPFNFPPHPP FAIICDFPLGCOBMLHLNJOLFLN BEDPIAAJFBJNBOIMIMKJMHON FCBOLHJMFCBPNJBKNPCBIOOM BNKCCBBNMJBNFAPPMIIIOPEN BBNEBNPKKKBNNAGHNIEJGIHN BHEDLKHGNNFMJIAGBEHKHION JHJAEEMLPFBNNJCEDABOFLDM NNKBPMEHCCKPJENIGCPDOKGM BHEIKCIFJJINNGMNCLCEFELP NBHPPHOIGEGNNLDGDDLGJJBN JMNNMNMNNIMNJINMNJIJMNJN\n3\nDate de facture 02/06/2025\nN(cid:176) de facture 11759408790625\nRemise (cid:224) ZØro 01/07/2025\nFin d’engagement Sans Engagement\nN(cid:176) de compte client 16832203\nM KASSINE YEVGUENY\nN(cid:176) de ligne 09 87 15 20 26 35 B RUE HENRI SIMON\nRØfØrence PTO FI-9208-7909 78000 VERSAILLES\nBonjour, voici votre facture du 2 juin 2025\n(cid:128)HT (cid:128) TTC(*)\nMontant prØlevØ le 16 juin 2025 24,99\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 20,83 24,99\nMontant de la facture soumis (cid:224) TVA 20,83 24,99\nTVA 20,00 % payØe sur les dØbits 4,17\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 20,83\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150R9E5L59\n039\n084\n793\n47\nRF\n- 039\n084\n793\nerretnaN\nS.C.R\n- TEROF-AL-NODUEM\n06329\n- niuJ\nlahcØraM\nud\neuneva\n,51-31\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 09 87 15 20 26 11759408790625\nAdresse de la ligne :\n62 AV DES ETATS UNIS\n78000 VERSAILLES\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 24,99\nPour le mois (cid:224) venir (du 02/06 au 01/0",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250602.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11759408790625",
+      "date_facture": "2025-06-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "320 207 956 048",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos services fournis par votre opérateur",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.83",
+          "montant_ht": "20.83",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250602.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250616.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(1!=3)"
+    ],
+    "text": {
+      "numero_facture": "11841277730625",
+      "date_facture": "2025-06-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.16",
+      "montant_tva": "1.83",
+      "montant_ttc": "10.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNFFPNFNPPPPHP NCICKKDNDPBPNABHABFPJNBP JJMAEMCFPKJMFONFIHDLLJPP FEOGJLJCLLCONIIDPJJDNNOM FCEOGLNJADNNFGNEKAELGNOM FLMGNFELKLANNNENIACLNOCM JEMJKJDIFOEMNFNOIEDAGBOP NBONOECJNIJMBNHLJGLGHLAP JPCBBIALCAGNNEOMHAFAJAIP NKDGCJAAFFFPFHKJAGHEBCGM NKMJFOADNCLPJHKLONALANHO JINMNNJINJINNNMNIMNIJMJM NFNPHHNFHNHPNNHHNFPFPHPP NMENBHPCPFEONNJKLGAEJEKN JAHADAHHMJMMJMDNBFNGODHN BEHPADOFALDPBFCFLOKAOHIO FKIIDBPAJGDNBFOHNOMDOCGO FBHEIAGJLPJNFFCBANEGPMLO JHMKJBLNEHLPJCANFABBFLGO FFFECEMIIHCOBIIMANJONFKO BCBDHHPKEDFPJHMHKHIMDJKO FPGONHAIFGHPBMJPAGPODFLP BFJPOHILCBHPNOIFIIANPFHO JIINMNIMNIINJIMJMIJIIIMN\n4\nDate de facture 16/06/2025\nN(cid:176) de facture 11841277730625\nRemise (cid:224) ZØro 15/07/2025\nFin d’engagement Date Øchue\nM KASSINE YEVGUENY\nRUE HENRI SIMON\nN(cid:176) de compte client 1.61321332 78000 VERSAILLES\nN(cid:176) de ligne 06 66 56 55 07\nBonjour, voici votre facture du 16 juin 2025\n(cid:128)HT (cid:128) TTC(*)\nMontant prØlevØ le 30 juin 2025 10,99\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 9,16 10,99\nVos communications (du 16/05 au 15/06) 0,00 0,00\nVos services fournis par des tiers 0,00 0,00\nVos services ponctuels 0,00 0,00\nMontant de la facture soumis (cid:224) TVA 9,16 10,99\nTVA 20,00 % payØe sur les dØbits 1,83\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 9,16\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150PYZ8Z59\n039\n084\n793\n47\nRF\n- 039\n084\n793\nerretnaN\nS.C.R\n- TEROF-AL-NODUEM\n06329\n- niuJ\nlahcØraM\nud\neuneva\n,51-31\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 06 66 56 55 07 11841277730625\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 10,99\nPour le mois (cid:",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250616.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11841277730625",
+      "date_facture": "2025-06-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "320 207 956 048",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.16",
+      "montant_tva": "1.83",
+      "montant_ttc": "10.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/05 au 15/06)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.0",
+          "montant_ht": "0.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos services ponctuels",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.0",
+          "montant_ht": "0.0",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250616.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250702.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(3!=1)"
+    ],
+    "text": {
+      "numero_facture": "11935294820725",
+      "date_facture": "2025-07-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38012988600039",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "SØrie SpØciale fibre (du 02/07 au 01/08)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.0",
+          "montant_ht": "20.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Remise pendant 3 mois sur abonnement - Bbox (du 02/07 au 01/08)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "-4.17",
+          "montant_ht": "-4.17",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Bbox - location Øquipement (du 02/07 au 01/08)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "2.5",
+          "montant_ht": "2.5",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNNHNNPFFHHNHN NCICKKDNDPIPFLGLFLHJNODO JJMAEMCFPDINFBIJKKPABPPO FEOOJLJCMMEPBGCJJHJPDBNN FCEOGLNOEAGPJEHHLHAAGGMM NLMGNFEPILEONLIJNDDGHMAM NEMJKJLKKKCOFODPPNKMAKGP JBONOMCKAFKNFGMJJGEEAOHP NPCBJICICABPBAPMJJHACEIP NKDGGHKHENGMJECOBMOAAJHN NKELIMMOKIIOFIIMIFKNGLFP JIJMNNINNNIMNMJMNJIJMJIM NFHFNHNFNNHNFNHFPPNFNHNP FAIIGDFHJCKNJHAEHFKLKJIN FBHPIAAFKHNPNFLOGPCCJGFN JMCPLDBKBBHOFMEPCNCLEKIO NLLCEPFOLHOOFBGNOLBLCKBO FANDLGDMMLPOBCBLNJLINPJP BHIMHNCEIEPNNCPCECKCLDEM JHFJHCJOPHBNJOKDJMJHFAIM NFCCEKEHNJDMNBFILBGJLBEM JHOAMDIBIPOMNBNDPENFOBKP JLNLOHAJCLONJKGBGGIMJJMN JIMMMNMMNIMMJINMMJIJMNIN\n3\nDate de facture 02/07/2025\nN(cid:176) de facture 11935294820725\nRemise (cid:224) ZØro 01/08/2025\nFin d’engagement Sans Engagement\nN(cid:176) de compte client 16832203\nM KASSINE YEVGUENY\nN(cid:176) de ligne 09 87 15 20 26 35 B RUE HENRI SIMON\nRØfØrence PTO FI-9208-7909 78000 VERSAILLES\nBonjour, voici votre facture du 2 juillet 2025\n(cid:128)HT (cid:128) TTC(*)\nMontant prØlevØ le 15 juillet 2025 24,99\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 20,83 24,99\nMontant de la facture soumis (cid:224) TVA 20,83 24,99\nTVA 20,00 % payØe sur les dØbits 4,17\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 20,83\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150R9E5L59\n039\n084\n793\n47\nRF\n- 039\n084\n793\nerretnaN\nS.C.R\n- TEROF-AL-NODUEM\n06329\n- niuJ\nlahcØraM\nud\neuneva\n,51-31\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 09 87 15 20 26 11935294820725\nAdresse de la ligne :\n62 AV DES ETATS UNIS\n78000 VERSAILLES\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 24,99\nPour le mois (cid:224) venir (du 02/07 a",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250702.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11935294820725",
+      "date_facture": "2025-07-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "352 207 956 048",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.83",
+          "montant_ht": "20.83",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250702.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250716.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(1!=3)"
+    ],
+    "text": {
+      "numero_facture": "11014954620725",
+      "date_facture": "2025-07-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": null,
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.16",
+      "montant_tva": "1.83",
+      "montant_ttc": "10.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNFFPNFNPPPFFP NCICKKDNDPBPNABHABFOOAKO JJMIEMCFPKJMFONFIHEMNLJM FEECJLJCLLCONIIDPONJOJMM NCLOGLNJADNNFGNEEJNKBPNM NLMGNFELKLANNNEHFDCGHFFM JEMJKJDIFOEMNFPMBNABGJON FBONOECJNIJMBNHDOCFMHEBM JPCBBIALCAGOJIFFKKGPELEM NKDGCKAAFFNOFGNOMFLIDOGO NKMJAOADNOIOFCMPCLDMCOGP JIJMNNJINNIMJJMNNJMINIIN NFHHHHNFFFPPFHFNFHPNNFPP NALNBHPOJLLOJJCBDOHLFHKN JOHADAGHCABNJAIALFMKIKHN FEHPAHBAKMHNJDHLPNANIFCN FJIIDNMADPHPNNEDAOCFKIDP FAHOIACEMPJOBLANPJCCABLM JHEFFBFOEHDNNGEGAJFHHKEM NPGHKJKIIMAMJOKHIENLEEGP JEHMLGPKJNGONIJMDAAHEBPO NJPOJHADBONOBJGOICNJABIP NKFKPHAPHBKONPBLPMBPPAOM JMNMMNMNNIMMJIMJMIJIJIIM\n4\nDate de facture 16/07/2025\nN(cid:176) de facture 11014954620725\nRemise (cid:224) ZØro 15/08/2025\nFin d’engagement Date Øchue\nM KASSINE YEVGUENY\nRUE HENRI SIMON\nN(cid:176) de compte client 1.61321332 78000 VERSAILLES\nN(cid:176) de ligne 06 66 56 55 07\nBonjour, voici votre facture du 16 juillet 2025\n(cid:128)HT (cid:128) TTC(*)\nMontant prØlevØ le 31 juillet 2025 10,99\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 9,16 10,99\nVos communications (du 16/06 au 15/07) 0,00 0,00\nVos services fournis par des tiers 0,00 0,00\nVos services ponctuels 0,00 0,00\nMontant de la facture soumis (cid:224) TVA 9,16 10,99\nTVA 20,00 % payØe sur les dØbits 1,83\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 9,16\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150PYZ8Z59\n039\n084\n793\n47\nRF\n- 039\n084\n793\nerretnaN\nS.C.R\n- TEROF-AL-NODUEM\n06329\n- niuJ\nlahcØraM\nud\neuneva\n,51-31\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 06 66 56 55 07 11014954620725\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 9,16 10,99\nVos abonnements, forfaits et options 10,99\nPour le mois",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250716.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11014954620725",
+      "date_facture": "2025-07-16",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "320 207 956 048",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "9.16",
+      "montant_tva": "1.83",
+      "montant_ttc": "10.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "9.16",
+          "montant_ht": "9.16",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos communications (du 16/06 au 15/07)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.0",
+          "montant_ht": "0.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Vos services ponctuels",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "0.0",
+          "montant_ht": "0.0",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250716.pdf",
+      "confidence": "medium"
+    }
+  },
+  {
+    "file": "Bouyguestelecom_Facture_20250802.pdf",
+    "match": false,
+    "mismatches": [
+      "lignes(3!=1)"
+    ],
+    "text": {
+      "numero_facture": "11124984260825",
+      "date_facture": "2025-08-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "38012988600039",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "SØrie SpØciale fibre (du 02/08 au 01/09)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.0",
+          "montant_ht": "20.0",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Remise sur abonnement - Bbox (du 02/08 au 01/09)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "-4.17",
+          "montant_ht": "-4.17",
+          "taux_tva": 20.0
+        },
+        {
+          "description": "Bbox - location Øquipement (du 02/08 au 01/09)",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "2.5",
+          "montant_ht": "2.5",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": "2D-DOC\nFPFFNPFNFNNNNHNNPFFHHHFN NCICKKDNDPIPFLGLFLHDKIJN JJMIEMCFPDINFBIJKKMHIKGO FEGKJLJCMMEPBGCJJGNNOLLN FCAOGLNOEAGPJEHHJBPACPPM BLMGNFEPILEONLILKHOOKBHM NEMJKJLKKKCOFOKIGLEKELMO BBONOMCKAFKNFJNBHCNABLDM NPCBJICICABNJDLHHBOADENO NKDGGHKHENGMFCOLMBDHDJKP NKELIMMOKDPNFALMLOKNJDEN JIJMNNINNMNNNNJIIIIIMINN NFHFHHNFPHHPNFNHPPPNNHPP FIAICDFPBCBOJOIIAKLCOKKN JOPOIAAFDPGOJOKCIPHPKNON BMGPLLIAKMINFNDMKFHLMPJM JJKCIIOFMNPONLIENGDHAEAP BBNOHHONHCDOFOIDNDNKIMCN BHELIEGAPDPOFIBDNMLAAHNM JHJMCDPPMCHMNNGFEEMHHPIN NNKOHJFHPGLOJOPCMNINGPHN JBKGIDIADGIMFPDDBBHHMELP NHMOOHMPDIHONLDNGHGOJNON NNNNMNIMNIMMJINIMJINMNIM\n3\nDate de facture 02/08/2025\nN(cid:176) de facture 11124984260825\nRemise (cid:224) ZØro 01/09/2025\nFin d’engagement 02/08/2026\nN(cid:176) de compte client 16832203\nM KASSINE YEVGUENY\nN(cid:176) de ligne 09 87 15 20 26 35 B RUE HENRI SIMON\nRØfØrence PTO FI-9208-7909 78000 VERSAILLES\nBonjour, voici votre facture du 2 aoßt 2025\n(cid:128)HT (cid:128) TTC(*)\nMontant prØlevØ le 14 aoßt 2025 24,99\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 20,83 24,99\nMontant de la facture soumis (cid:224) TVA 20,83 24,99\nTVA 20,00 % payØe sur les dØbits 4,17\nMontant hors TVA soumis (cid:224) une TVA (cid:224) 20,00 % 20,83\n(*) Les montants unitaires sont arrondis, leur somme peut diffØrer du montant total.\nVous serez prØlevØ sur votre compte bancaire avec comme RØfØrence Unique de Mandat (RUM) : BT1150R9E5L59\n039\n084\n793\n47\nRF\n- 039\n084\n793\nerretnaN\nS.C.R\n- TEROF-AL-NODUEM\n06329\n- niuJ\nlahcØraM\nud\neuneva\n,51-31\n: laicos\negŁiS\n- (cid:128)\n84,595\n702\n929\ned\nlatipac\nua\nemynonA\nØtØicoS\n- MOCELET\nSEUGYUOB\nUtilisateur de la ligne NumØro de la ligne Annexe de la facture\nYEVGUENY KASSINE 09 87 15 20 26 11124984260825\nAdresse de la ligne :\n62 AV DES ETATS UNIS\n78000 VERSAILLES\n%TVA (cid:128) HT (cid:128) TTC(*)\nVos services fournis par votre opØrateur 20,83 24,99\nVos abonnements, forfaits et options 24,99\nPour le mois (cid:224) venir (du 02/08 au 01/09)\n• ",
+      "extraction_method": "native_text",
+      "source_file": "Bouyguestelecom_Facture_20250802.pdf",
+      "confidence": "medium"
+    },
+    "vision": {
+      "numero_facture": "11124984260825",
+      "date_facture": "2025-08-02",
+      "date_echeance": null,
+      "nom_fournisseur": "BOUYGUES TELECOM",
+      "siret_fournisseur": "320 207 956 048",
+      "adresse_fournisseur": null,
+      "nom_client": null,
+      "montant_ht": "20.83",
+      "montant_tva": "4.17",
+      "montant_ttc": "24.99",
+      "devise": "EUR",
+      "taux_tva": 20.0,
+      "lignes": [
+        {
+          "description": "Vos abonnements, forfaits et options",
+          "quantite": 1.0,
+          "prix_unitaire_ht": "20.83",
+          "montant_ht": "20.83",
+          "taux_tva": 20.0
+        }
+      ],
+      "type_document": "facture",
+      "categorie": "telecom",
+      "moyen_paiement": "prelevement",
+      "iban_fournisseur": null,
+      "numero_tva": null,
+      "numero_commande_client": null,
+      "url_fichier": null,
+      "raw_text": null,
+      "extraction_method": "vision",
+      "source_file": "Bouyguestelecom_Facture_20250802.pdf",
+      "confidence": "medium"
+    }
+  }
+]

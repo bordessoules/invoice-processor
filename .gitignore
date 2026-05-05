@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+
+# Outputs & data
+output/
+*.db
+*.db-journal
+*.csv
+
+# PDFs & images (trop lourds)
+factures/**/*.pdf
+factures/**/*.md
+factures/**/*.jpg
+factures/**/*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

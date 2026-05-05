@@ -1,0 +1,65 @@
+{
+  "models": {
+    "qwen": "qwen/qwen3.6-35b-a3b",
+    "gemma": "google/gemma-4-26b-a4b"
+  },
+  "sampling": {
+    "qwen/qwen3.6-35b-a3b": {
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 20,
+      "min_p": 0.0,
+      "presence_penalty": 1.5,
+      "repetition_penalty": 1.0
+    },
+    "google/gemma-4-26b-a4b": {
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "top_k": 64
+    }
+  },
+  "sample_size": 10,
+  "field_stats": {
+    "numero_facture": {
+      "match": 9,
+      "total": 10
+    },
+    "date_facture": {
+      "match": 9,
+      "total": 10
+    },
+    "nom_fournisseur": {
+      "match": 10,
+      "total": 10
+    },
+    "montant_ht": {
+      "match": 9,
+      "total": 10
+    },
+    "montant_tva": {
+      "match": 10,
+      "total": 10
+    },
+    "montant_ttc": {
+      "match": 10,
+      "total": 10
+    },
+    "taux_tva": {
+      "match": 10,
+      "total": 10
+    },
+    "nb_lignes": {
+      "match": 7,
+      "total": 10
+    },
+    "type_document": {
+      "match": 9,
+      "total": 10
+    },
+    "categorie": {
+      "match": 8,
+      "total": 10
+    }
+  },
+  "overall_pct": 91.0
+}
