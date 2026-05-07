@@ -5,6 +5,26 @@ import fitz  # PyMuPDF
 import pdfplumber
 from pathlib import Path
 
+# Files we know how to process (PDFs + raster images).
+IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp", ".tiff", ".tif", ".bmp"}
+SUPPORTED_EXTENSIONS = {".pdf"} | IMAGE_EXTENSIONS
+
+
+def is_image(path) -> bool:
+    return Path(path).suffix.lower() in IMAGE_EXTENSIONS
+
+
+def is_supported(path) -> bool:
+    return Path(path).suffix.lower() in SUPPORTED_EXTENSIONS
+
+
+def list_supported_files(root: str | Path) -> list[Path]:
+    """Return all PDF + image files under root (sorted, case-insensitive on suffix)."""
+    return sorted(
+        p for p in Path(root).rglob("*")
+        if p.is_file() and p.suffix.lower() in SUPPORTED_EXTENSIONS
+    )
+
 
 def _garbage_score(text: str) -> float:
     """Score de pollution : 0 = propre, > 0.05 = très sale."""
@@ -105,6 +125,23 @@ def pdf_page_to_base64(pdf_path: str, page_num: int = 0, dpi: int = 200) -> str:
 
 
 def pdf_pages_to_base64_list(pdf_path: str, dpi: int = 200, max_pages: int = 5) -> list[str]:
+    """Render PDF pages OR a single raster image to base64 PNG strings.
+
+    Accepts both PDFs and image files (JPG/PNG/WebP/...). Images are treated
+    as 1-page documents and re-encoded as PNG for consistent downstream handling.
+    Kept under its original name for backward compatibility.
+    """
+    p = Path(pdf_path)
+    if p.suffix.lower() in IMAGE_EXTENSIONS:
+        # PyMuPDF opens raster images as 1-page docs natively
+        doc = fitz.open(str(p))
+        try:
+            page = doc.load_page(0)
+            pix = page.get_pixmap()  # native resolution, no DPI rescaling needed
+            return [base64.b64encode(pix.tobytes("png")).decode("utf-8")]
+        finally:
+            doc.close()
+
     doc = fitz.open(pdf_path)
     try:
         images = []

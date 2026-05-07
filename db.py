@@ -46,6 +46,13 @@ def init_db() -> None:
         hash TEXT PRIMARY KEY,
         content TEXT
     );
+
+    CREATE TABLE IF NOT EXISTS manual_review (
+        pdf_path        TEXT PRIMARY KEY,
+        final_data_json TEXT,
+        status          TEXT,
+        reviewed_at     TEXT
+    );
     """)
     conn.commit()
     conn.close()

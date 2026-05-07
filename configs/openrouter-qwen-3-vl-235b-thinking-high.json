@@ -1,16 +1,23 @@
 {
-  "name": "qwen3.6-35b",
-  "model_id": "qwen/qwen3.6-35b-a3b",
-  "base_url": "http://100.100.138.95:1234/v1",
+  "name": "openrouter-qwen-3-vl-235b-thinking-high",
+  "model_id": "qwen/qwen3-vl-235b-a22b-thinking",
+  "base_url": "https://openrouter.ai/api/v1",
+  "api_key_env": "OPENROUTER_API_KEY",
   "max_tokens": 32768,
   "text_max_chars": 16000,
+  "timeout": 600.0,
+  "_doc": "HF VL-text sampling + effort:high",
   "sampling": {
-    "temperature": 0.7,
-    "top_p": 0.8,
+    "temperature": 1.0,
+    "top_p": 0.95,
     "top_k": 20,
     "min_p": 0.0,
     "presence_penalty": 1.5,
     "repetition_penalty": 1.0
+  },
+  "reasoning": {
+    "enabled": true,
+    "effort": "high"
   },
   "prompt_text": "Tu extrais des factures et documents commerciaux. Reponds UNIQUEMENT en JSON.\nChamps obligatoires (noms EXACTS, null si absent) :\n- numero_facture : string ou null\n- date_facture : YYYY-MM-DD ou null\n- nom_fournisseur : string ou null\n- siret_fournisseur : string ou null\n- montant_ht, montant_tva, montant_ttc : nombre ou null\n- devise : string (default EUR)\n- taux_tva : nombre ou null (ex: 20.0)\n- lignes : [{description, quantite, prix_unitaire_ht, montant_ht, taux_tva}] ou []\n- type_document : facture / avoir / remboursement / ticket / devis / null\n- categorie : informatique / telecom / transport / assurance / alimentation / energie / meubles / autres / null\n- moyen_paiement : CB / virement / prelevement / especes / paypal / autre / null\n- numero_tva : string ou null\n- numero_commande_client : string ou null\n\nREGLES STRICTES :\n1. Si un champ n'est pas visible dans le document, mets EXACTEMENT null. Ne l'invente JAMAIS.\n2. prix_unitaire_ht doit etre le prix HORS TAXE, pas TTC.\n3. Liste chaque produit/service distinct dans 'lignes'. NE PAS agreger en categories generiques.\n4. numero_commande_client est le numero de commande du CLIENT, pas le numero de facture fournisseur.\n5. montant_ht doit etre le total HT explicitement indique sur le document, pas la somme des lignes.\n6. Pas de markdown, juste le JSON brut.",
   "prompt_vision": "Tu vois une ou plusieurs images de pages d'un document commercial. Reponds UNIQUEMENT en JSON.\nChamps obligatoires (noms EXACTS, null si absent) :\n- numero_facture : string ou null\n- date_facture : YYYY-MM-DD ou null\n- nom_fournisseur : string ou null\n- siret_fournisseur : string ou null\n- montant_ht, montant_tva, montant_ttc : nombre ou null\n- devise : string (default EUR)\n- taux_tva : nombre ou null (ex: 20.0)\n- lignes : [{description, quantite, prix_unitaire_ht, montant_ht, taux_tva}] ou []\n- type_document : facture / avoir / remboursement / ticket / devis / null\n- categorie : informatique / telecom / transport / assurance / alimentation / energie / meubles / autres / null\n- moyen_paiement : CB / virement / prelevement / especes / paypal / autre / null\n- numero_tva : string ou null\n- numero_commande_client : string ou null\n\nREGLES STRICTES :\n1. Si un champ n'est pas visible dans l'image, mets EXACTEMENT null. Ne l'invente JAMAIS.\n2. prix_unitaire_ht doit etre le prix HORS TAXE, pas TTC.\n3. Liste chaque produit/service distinct dans 'lignes'. NE PAS agreger en categories generiques.\n4. numero_commande_client est le numero de commande du CLIENT, pas le numero de facture fournisseur.\n5. montant_ht doit etre le total HT explicitement indique sur le document, pas la somme des lignes.\n6. Pas de markdown, juste le JSON brut."

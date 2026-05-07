@@ -1,4 +1,8 @@
-"""Extrait et stocke les textes PDF (déterministes, 1 seule fois)."""
+"""Extrait et stocke les textes PDF + détecte images (déterministes, 1 seule fois).
+
+Les images (JPG/PNG/...) ne contiennent pas de texte extractible : elles sont juste
+loggées pour traçabilité, et seront traitées en mode vision plus tard.
+"""
 import sys, io
 if sys.platform == "win32":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
@@ -6,15 +10,28 @@ if sys.platform == "win32":
 
 from pathlib import Path
 from db import init_db, insert_pdf_text
-from utils.pdf_utils import extract_text_pdfplumber, extract_text_pymupdf
+from utils.pdf_utils import (
+    extract_text_pdfplumber,
+    extract_text_pymupdf,
+    is_image,
+    list_supported_files,
+)
+
 
 def main():
     init_db()
-    factures = list(Path("factures").rglob("*.pdf"))
-    print(f"[SEED] {len(factures)} PDFs trouves")
+    files = list_supported_files("factures")
+    n_pdf = sum(1 for f in files if not is_image(f))
+    n_img = sum(1 for f in files if is_image(f))
+    print(f"[SEED] {n_pdf} PDFs + {n_img} images trouvés")
 
-    for pdf in factures:
-        p = str(pdf)
+    for f in files:
+        p = str(f)
+        if is_image(f):
+            # Pas de texte extractible — sera traité en mode vision
+            print(f"  [IMG] {f.name}  (vision-only)")
+            continue
+
         # pdfplumber
         t1 = extract_text_pdfplumber(p)
         if t1:
@@ -23,13 +40,14 @@ def main():
         t2 = extract_text_pymupdf(p)
         if t2:
             insert_pdf_text(p, "pymupdf", t2)
-        # mineru md (deja genere)
-        md = pdf.with_suffix(".md")
+        # mineru md (déjà généré)
+        md = f.with_suffix(".md")
         if md.exists():
             insert_pdf_text(p, "mineru", md.read_text(encoding="utf-8"))
-        print(f"  [OK] {pdf.name}")
+        print(f"  [OK]  {f.name}")
 
     print("[SEED] Termine")
+
 
 if __name__ == "__main__":
     main()

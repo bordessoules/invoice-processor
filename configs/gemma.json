@@ -1,6 +1,9 @@
 {
   "name": "gemma4-e4b",
   "model_id": "google/gemma-4-e4b",
+  "base_url": "http://100.100.138.95:1234/v1",
+  "max_tokens": 32768,
+  "text_max_chars": 16000,
   "sampling": {
     "temperature": 1.0,
     "top_p": 0.95,

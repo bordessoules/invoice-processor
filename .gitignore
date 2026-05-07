@@ -18,6 +18,10 @@ factures/**/*.md
 factures/**/*.jpg
 factures/**/*.png
 
+# Secrets
+.env
+.env.local
+
 # IDE
 .vscode/
 .idea/
